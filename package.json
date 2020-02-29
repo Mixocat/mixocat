@@ -1,0 +1,22 @@
+{
+  "name": "mixocat",
+  "version": "1.0.0",
+  "description": "El humilde",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mixocat/mixocat.git"
+  },
+  "keywords": [
+    "Mixocat"
+  ],
+  "author": "Armando Guzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mixocat/mixocat/issues"
+  },
+  "homepage": "https://github.com/Mixocat/mixocat#readme"
+}
